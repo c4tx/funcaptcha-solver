@@ -1,3 +1,3 @@
 # Arkose Funcaptcha Solver
 
-<video src="./assets/pow.mp4" controls preload></video>
+<img src="./assets/pow.gif" />
