@@ -1,3 +1,3 @@
 # Arkose Funcaptcha Solver
 
-![d](assets/pow.mp4)
+<video src="./assets/pow.mp4" controls preload></video>
