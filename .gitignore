@@ -1,0 +1,5 @@
+.venv
+node_modules
+main.py
+*.json
+!package.json
